@@ -23,6 +23,12 @@ Kindle wants money. Apple Books is a walled garden with excellent escape-proof d
 
 So I wrote this. With **tremendous** help from an LLM, to be straight about it. I do not hand-write `pdf-parse` error-handling at 23:00. Nobody should. This is the future; I like this future.
 
+---
+
+> 📚 **A small legal note, delivered with a warm smile:** only download books you actually own. The LibGen + OPDS integrations exist so you can re-ingest the books you've already paid for — the one on your shelf, the one on the Kindle you left on a plane, the PDF your colleague mailed you after a conference. If you're using this to hoard copyrighted fiction you never intended to buy, that's on you, not on the software. Authors like eating. Be excellent to each other. 🙂
+
+---
+
 ## Design
 
 A **paper-tone palette** — `#FBF7F1` warm page, `#1a1714` deep ink — calibrated not to set fire to your retinas at midnight. **Source Serif 4** for body copy, **JetBrains Mono** for metadata, system-ui for UI chrome. The typographic scale runs 11 → 40 px with 1.6 line-height on body — a measure your English teacher would grudgingly approve.
